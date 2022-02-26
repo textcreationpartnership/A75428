@@ -1,0 +1,408 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to the chief, or materiall heads &amp; passages of the late declaration, called, The declaration of the kingdome of Scotland and ansvver to the commissioners to both Houses of Parliament, upon the new propositions of peace, and the foure bills. Imprimatur, Gilb. Mabbot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75428</idno>
+            <idno type="STC">Wing A3398</idno>
+            <idno type="STC">Thomason E421_32</idno>
+            <idno type="STC">ESTC R204779</idno>
+            <idno type="EEBO-CITATION">99864241</idno>
+            <idno type="PROQUEST">99864241</idno>
+            <idno type="VID">116466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116466)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E421[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to the chief, or materiall heads &amp; passages of the late declaration, called, The declaration of the kingdome of Scotland and ansvver to the commissioners to both Houses of Parliament, upon the new propositions of peace, and the foure bills. Imprimatur, Gilb. Mabbot.</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Ian. 4. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Scotland, Convention of Estates. The declaration of the kingdome of Scotland.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Convention of Estates. --  Declaration of the kingdome of Scotland.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116466:1" rendition="simple:additions"/>
+            <p>AN ANSVVER To the chief, or materiall Heads &amp; Paſſages in the late <hi>Declaration,</hi> Called, <hi>The DECLARATION of the Kingdome of SCOTLAND:</hi> AND ANSVVER OF THE COMMISSIONERS <hi>TO BOTH HOVSES OF</hi> PARLIAMENT, UPON The new <hi>PROPOSITIONS</hi> of Peace, and the foure Bills.</p>
+            <floatingText xml:lang="eng" type="imprimatur">
+               <body>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>Gilb. Mabbot.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert White, Ian.</hi> 4. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116466:2"/>
+            <head>AN ANSVVER To the chief, or materiall Heads &amp; Paſſages in the late <hi>Declaration,</hi> called, <hi>The DECLARATION of the Kingdome of SCOTLAND,</hi> &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hey ſay they have patiently indevored, according to Covenant, to ſettle Religion and happy peace: by preſſing the ſending Propoſitions.</hi>
+            </p>
+            <p>Their patience was ſeen, when after they had faſtened themſelves in <hi>England,</hi> they concurred not to ſubdue the power under his Majeſties command, nor take his Towns, (obvious to every common underſtanding) and which they perſiſted in to the laſt, and by that meanes pre<g ref="char:EOLhyphen"/>judiced this Kingdome millions.</p>
+            <p>
+               <hi>According to Covenant:</hi> heres their limitation.</p>
+            <p>The Covenant, as Scriptures, uſually is expounded as the opinions of men are: But why that ſhould not be overmuch ſtood upon, or kept over cloſe unto, Conſider: Firſt, it was made in <hi>Scotland,</hi> when the <hi>Parliaments</hi> power was very low through the trechery of the <hi>Hothams,</hi> revolt of Lords and Commons to the King, and the abſurd managing of the <hi>Parliaments</hi> war; wherein the <hi>Scots</hi> Com<g ref="char:EOLhyphen"/>manders had the chief ſtroke, who knew how to make a little work goe a great way, inſomuch, as <hi>Hurr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> then but an ordinary man, cride ſhame of it.</p>
+            <p>Secondly, it was that which our <hi>Commiſſioners</hi> would by no means have brought, but could get no better.</p>
+            <pb n="1" facs="tcp:116466:2"/>
+            <p>Thirdly, it is ambiguous and hard to be underſtood, nay never yet ageeed as to the meaning: an eminent Lawyer being asked whether he underſtood it, when he tooke it, anſwered, no; it being replied, why then did he take it? why ſaid he, they would have undone me elſe.</p>
+            <p>Fourthly, it was forc't upon men, (a way profeſt againſt in <hi>Scot<g ref="char:EOLhyphen"/>land</hi>) to the ruining of many hundreds, who other way were with<g ref="char:EOLhyphen"/>out exceptions, both Miniſters, and Laymen. Experience proved it crooked, Conſcientious men, men of parts, and great learning re<g ref="char:EOLhyphen"/>fuſing it.</p>
+            <p>Fifthly, its conceived abſurd and hypocritical; to ſwear the preſer<g ref="char:EOLhyphen"/>vation of the Kings perſon as a man, when at ſame time a war is inga<g ref="char:EOLhyphen"/>ged in againſt him, and he known to be in the field, ſubject to death by the bullet and ſword.</p>
+            <p>Sixthly, it never made man friend to the <hi>Parliament,</hi> that was not ſo before.</p>
+            <p>Seventhly, humane, and ſo alterable.</p>
+            <p>Eigthly, how hath it been obſerved by the founders, except for their own ends: with many more.</p>
+            <p>
+               <hi>By ſending Propoſitions.</hi>
+            </p>
+            <p>That is as they like, and ſuch as made for the good of <hi>Scotland,</hi> and <hi>Scots</hi>-men in <hi>England,</hi> and for ruine and extirpation of thoſe whom they hate; who are juſt, honeſt, wiſe, and pious men, only differing in judgement and life from them, and who have merit<g ref="char:EOLhyphen"/>ed better then they in ſubduing the enemy, the beſt way to a good and happy peace, let what will be pretended; otherways why agree they not to the Propoſitions now ſent, againſt which they have no exception, but that they are not for the Scotch Intereſt: which is to continue, to reap the ſweetneſſe of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>They offer the beſt way for a peace, a Treaty at London.</hi> And why at <hi>London?</hi> becauſe there are many diſcontented perſons, who will, when his Majeſty comes to <hi>London,</hi> joyne to force the <hi>Parliament,</hi> as they did lately, and had done more, had not the Army prevented. The words of Mr. <hi>Hollis</hi> are conſiderable, it never re<g ref="char:EOLhyphen"/>pented the King and his party that they fought againſt the <hi>Parl.</hi> but that they fought againſt <hi>London</hi> after the wars between King &amp; Subject, &amp; King, and he that put in to be King (take the words of the ſtory) the overcomer never thought himſelfe ſafe untill he was
+<pb n="2" facs="tcp:116466:3"/>maſter of <hi>London;</hi> and if he had <hi>London,</hi> he car'd not for his enemies: wirneſſe <hi>Henry</hi> the ſeventh, and many others; ſo that it cannot be otherway in reaſon concluded, but that they that are for his Maje<g ref="char:EOLhyphen"/>ſties coming to <hi>London</hi> to treat, are ſo far from a good and happy peace, that they are for a new war; for if they intend peace, they will avoyd differences, and reaſon will take place as well at <hi>South<g ref="char:EOLhyphen"/>hampton</hi> as <hi>London. The Reaſon why a perſonall Treaty is beſt, becauſe firſt other means have been ineffectuall.</hi> I have gone ſeverall times in a rationall way about a buſineſſe, but it hath not ſucceeded: there<g ref="char:EOLhyphen"/>fore I will now goe in an irrationall. But admit a Treaty, ſure its not meant that his Majeſtie and the <hi>Parliament</hi> argue the buſineſs; for then they will (being ſo many) be too hard for one; if ſome of his, and ſome of <hi>Parliament,</hi> then it hath been before.</p>
+            <p>
+               <hi>Secondly, the Kings removall from</hi> Parliament <hi>hath been acknow<g ref="char:EOLhyphen"/>ledged the cauſe of the war.</hi> The Kings removall, as a good King, was not; for Kings have frequently been abſent from <hi>Parliament;</hi> the Kings coming as a good King, intending peace, cannot hurt; but what appeares that his Majeſtie is other, then when he went hence? hath he not the ſame Counſell, friends, and takes he not the ſame wayes? he ever ſaid he was ſorry for the miſeries of his Subjects, he ſaith no more now.</p>
+            <p>
+               <hi>Thirdly, but Commiſsioners on both ſides may give Reaſons.</hi> Proper <hi>Commiſsioners</hi> that can give Reaſons no where but at <hi>London,</hi> nor no where, but where, and when his Majeſty is at <hi>London,</hi> or preſent.</p>
+            <p>
+               <hi>Fourthly, the King may have juſt deſires to move for the Crown.</hi> And God forbid but they ſhould be conſidered, and granted; but when all that hath been done by his influence in <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> ſince his Reigne, ſhall be waied in the ſcales of Juſtice, it will be little that will fall in for the Crowne in away of Juſtice, ſaid the <hi>Scots</hi> in generall, when at beginning of their troubles they were for depoſing him and his, had not the next heir ſtuck with them, and yet it cannot be denyed that what the Kings of <hi>England</hi> had formerly, ſetting aſide the calling, diſſolving, and peremptory negative voyce in <hi>Parliaments,</hi> there was nothing but would ſtand well with a Kingly, or Monarchicall government, and without pre<g ref="char:EOLhyphen"/>judice to the people.</p>
+            <p>Fifthly, <hi>It will beget mutuall confidence.</hi> If the ends be the ſame, o<g ref="char:EOLhyphen"/>therway not: after agreement it may, not before; love is from ſimi<g ref="char:EOLhyphen"/>litude;
+<pb n="3" facs="tcp:116466:3"/>thoſe that differ, are beſt aſunder. <hi>It cannot be expected his Majeſty will grant whatever is ſent him, without diſcourſe of, or excepti<g ref="char:EOLhyphen"/>on againſt.</hi> Therefore the Parliament are willing to a perſonal Treaty for moſt things. <hi>The Parliament will not give full power to their Commiſſionesr.</hi> Nor will the Kingdome of Scotland to you, nor have you any ſuch: nor is it fit you or theirs ſhould. Muſt all the Kings and Princes in Chriſtendom meet at <hi>Munſter,</hi> becauſe their Embaſ<g ref="char:EOLhyphen"/>ſadors have not power to determine, without firſt ſending the Agree<g ref="char:EOLhyphen"/>ment to them as its made head by head? excellent Scots reaſon.</p>
+            <p>
+               <hi>But his preſence will do hurt at London, and make diviſions, its ob<g ref="char:EOLhyphen"/>jected: and they anſwer, it cannot be, for he hath no Army.</hi>
+            </p>
+            <p>It did upon the Scots at Newcaſtle, and before: Or how come they to be his chief pleaders, that were firſt fighters againſt him? And had not that apprehenſion frighted, he had gone into Scot<g ref="char:EOLhyphen"/>land, and not come this way when he was at Newcaſtle.</p>
+            <p>
+               <hi>If they were eſteemed enemies that drew him from Parliament? What are they that hinder his return?</hi>
+            </p>
+            <p>They that drew him away were occaſions of a war, therefore ene<g ref="char:EOLhyphen"/>mies, and for that end did it. The Parliament to prevent a war, are not willing he come untill all is agreed: and what is that com<g ref="char:EOLhyphen"/>ming to London? What if there were no London, cannot the King and Parliament agree? Have Kings been ſo in love with London and Parliaments in times of peace? King <hi>James</hi> counted the one his hell, the other his purgatory. <hi>But the new Propoſitions, the foundati<g ref="char:EOLhyphen"/>on of Peace, which concern Religion the intereſt of the Crown, the <g ref="char:V">Ʋ</g>nion and Joynt-concernment of both Kingdoms, are not ſo well ſtated as in the old. For firſt, The Covenant is left out, w<hi rend="sup">ch</hi> is a ſolemn vow by creatures made to God.</hi> The Covenant was entred into, to bring a good peace, now to ſtand upon it, is to bring an ill War, for the reaſons before: and becauſe there is a generall adverſneſſe to the taking it, more then againſt the matter of it. Its the opinion of learned <hi>Perkins,</hi> that <hi>Jeptha</hi> did not ſacrifice his daughter, but did that which was e<g ref="char:EOLhyphen"/>quivolent, and better; ſo may the Parliament.</p>
+            <p>
+               <hi>The parts of which Covenant are in preſervation, and reformation of Religion.</hi> Not the Scots Religion, farther then againſt the common enemy, and let any diſturb them for it, or go about to deſtroy it, England will hazzard life and eſtate for them, and their beſt blood. No better quarrell to fight, then when any will deſtroy others, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="4" facs="tcp:116466:4"/>not of their Religion. For Reformation, it is to be according to the word of God, and beſt reformed Churches: for the word of God, that muſt be, as the Parliament conceive; for beſt reformed Churches, what have you againſt that in the Netherlands, where many different profeſſions are tollerated?</p>
+            <p>
+               <hi>Happineſſe of the King.</hi> As he is King of England, ſure the Parli<g ref="char:EOLhyphen"/>ament of England are as fit judges, as the Parliament of Scotland is, as he is King of Scotland, and therefore may make their lawes for his happineſſe, as well as they in Scotland; and ſo no need England be in ward to Scotland. <hi>Peace and ſafety of the three Kingdomes:</hi> The beſt way for that, is to deſtroy and keep under the Common e<g ref="char:EOLhyphen"/>nemy to all, and they that conſider how the Scots proſecute the war in Ireland, now, and long ſince too much favouring the Rebels, and at this time upon treaty with them, to deliver vvhat they there hold, the tranſactors on the Rebels ſide being Romiſh Clergy, as by credi<g ref="char:EOLhyphen"/>ble Intelligence is certified, never having for years marched one foot, or made one ſhot againſt them: and how active with ſmall help the Engliſh have been, and victorious: inſomuch that had the Scots done what they could, Ireland had in all likelyhood ben con<g ref="char:EOLhyphen"/>quered by this time; which had they as much minde unto, as to ſub<g ref="char:EOLhyphen"/>due their enemies in Scotland, would have appeared by the like acti<g ref="char:EOLhyphen"/>vity, and to pretend ſupplyes from England, is idle, they having all neceſſaries about them, and growing rich: As for England, the third kingd. how forward they have been al know, &amp; is mentioned before.</p>
+            <p>
+               <hi>The King is adverſe to the Covenant, is our obiection: and why then take we ſo much liberty in other matters of God?</hi> We take that li<g ref="char:EOLhyphen"/>berty that in our judgement is according to the minde of God, and dare maintain by Argument and Scripture, that it is Conſonant to both, againſt whomſoever.</p>
+            <p>
+               <hi>But the Covenant muſt be kept unto, let the King be as adverſe as he will, becauſe good for King and Kingdomes;</hi> That is, He muſt not be King of England, Scotland, or Ireland, as to government, unleſſe he will take the Covenant: and where is his reaſon, or what he can ſay, or his Commiſſioners, in a perſonall Treaty allowed him, in this? Let an Angell come from heaven and ſay he muſt not take it, yet un<g ref="char:EOLhyphen"/>leſſe he will, he muſt not govern; when they will, reaſon muſt take place; and when they will not, then it muſt not: So that what is good for Kingdoms, in the opinion of Scotland, may be ſtood upon,
+<pb n="5" facs="tcp:116466:4"/>though his Majeſty, and <hi>England, Ireland</hi> have never ſo much reaſon againſt it. <hi>But this muſt not be underſtood that his Majeſtie be kept in priſon, or wronged;</hi> Truly for a King to be at liberty, and not to governe, can be no great content; to ſee a mans wife, and not to enjoy her; to be hungry, and ſee good food, and not permitted to eat it, is an unhappineſſe rather then an happineſſe: the King, un<g ref="char:EOLhyphen"/>doubtedly, were it put to him, would rather chooſe to end his dayes in the Iſle of <hi>Wight,</hi> then to live in any outward contents in <hi>London,</hi> or any of his houſes, diveſted of his Government.</p>
+            <p>
+               <hi>Or that Armies ſhould be kept on foot after the enemy is overcome: to burthen the Kingdome, or force the King to grant what they pleaſe.</hi>
+            </p>
+            <p>Why keep you an Army on foot in <hi>Scotland,</hi> having no enemy in field? can there be no need of an Army to prevent an enemyes ri<g ref="char:EOLhyphen"/>ſing? how many diſcontents are in <hi>England</hi> and <hi>Scotland?</hi> what tampering is there between the Crown of <hi>France</hi> and <hi>Scotland</hi> at this time? how are the people diſpoſed unto inſurrection, occaſio<g ref="char:EOLhyphen"/>ned by their preſent and future ſuffering? the latter you cannot waſh your hands off, nor well of the preſent; let <hi>England</hi> have aſ<g ref="char:EOLhyphen"/>ſurance <hi>Scotland</hi> will not ſtirre up, nor act new troubles, the <hi>Parli<g ref="char:EOLhyphen"/>ament</hi> will undertake to reduce to as ſmall a number as you ſhall in <hi>Scotland.</hi> As for the Armies forcing the King to grant what they pleaſe, its clear, (his Majeſtie being Judge) the Army hath made as pleaſing overtures for him, as the <hi>Parliament</hi> of <hi>England</hi> or <hi>Scot<g ref="char:EOLhyphen"/>land:</hi> and for the burthen of <hi>England;</hi> what is it to any other that the owner carryed his cow; beſides, you know <hi>England</hi> can bear to maintaine an Army, as well and as long as <hi>Scotland. But you ex<g ref="char:EOLhyphen"/>pected that when you departed, the Army in</hi> England <hi>ſhould be disban<g ref="char:EOLhyphen"/>ded.</hi> You meane the <hi>Independent</hi> part of it: for ſure you have not forgot, that before the 11 Members went away long, an Army of many thouſand horſe and foot was voted to be a ſtanding Army for this Kingdome, and Colonels named, Governors of Towns ap<g ref="char:EOLhyphen"/>poynted, and had they been of your party, no doubt you would have ſtood for their continuance, and excuſed the burthen, and im<g ref="char:EOLhyphen"/>poſing upon his Majeſty, which now you cry out of: but is it in any of the Treaties, great or ſmall, or in the Covenant, that <hi>England</hi> ſhall not keep an Army on foot without the approbation of the <hi>Commiſsioners,</hi> or Kingdome of <hi>Scotland? And not have ta<g ref="char:EOLhyphen"/>ken the King away contrary to his will.</hi> That he never yet ſaid, but if
+<pb n="6" facs="tcp:116466:5"/>true, the Parliament are proper Judges of that offence.</p>
+            <p>
+               <hi>To whom the Parliament of both Kingdoms were to make addreſſes,</hi>
+            </p>
+            <p>And Scotland yet may, but not of what they pleaſe: Ambaſſa<g ref="char:EOLhyphen"/>dours ſent from forreign States, may be denied Audience, and have by King <hi>Charles,</hi> when their Ambaſſie may be prejudiciall: yea, if a King be King of two kingdomes, there is little of reaſon, that the one Kingdome ſhall have liberty to make addreſſes, which in their opinion are deſtructive to them.</p>
+            <p>Suppoſe King <hi>Charles</hi> ſhould offer to add to the Kingdome of Scotland, the Counties of Northumberland, Durham, Cumberland, and Weſtmerland, as ſome of their own ſay he did: Is it fit the Par<g ref="char:EOLhyphen"/>liament permit ſuch a tranſaction?</p>
+            <p>
+               <hi>And had they not received aſſurance from the Parliament of the contrary, all the allurements of the world, and threatnings could not have made them part with the King, untill all Armies had been dis<g ref="char:EOLhyphen"/>banded.</hi>
+            </p>
+            <p>For the Parliaments aſſurance, certainly they never made any of this kinde, it being not in their power: nor ſhould they have put the King in priſon, and laid him in chains: nor could you have made good yours, had you ſo done, which was not agreed at his coming, but the contrary. You ſee his Majeſty when he pleaſes, can eſcape guards; and for that way of allurements and threatnings, ſure none were made by Parliament, nor doth it appear they were ſo zealous to have him, but that it was as much your, as their deſire: as for his return untill all was disbanded, its probable the Parliament would not have much ſtood upon that, nor would they, were his Majeſty with you.</p>
+            <p>
+               <hi>And this they aſſert (againſt all calumnies) that their loyalty is more to them then all.</hi>
+            </p>
+            <p>Loyalty is of a large extent, admits of various interpretations, a volume may be written in definition of it. Scotland is famous for Loyalty, and as famous for contending, deſtroying, dis-throning of their Kings: what hath been fooliſhly ſaid, it had been better to have paſt by with ſcorn, the Parliament never letting fall the leaſt word to the contrary of your Loyalty.</p>
+            <p>
+               <hi>But the Ordinance leaves out the ſitting of the Aſſembly.</hi>
+            </p>
+            <p>Not of Scotland, but England: What of that? they have ſate long: An Army, or a Kingdome of ſtrange opinions indeed is brought
+<pb n="7" facs="tcp:116466:5"/>forth not at all to their credit, who have not laid any of them upon their backs by Argument, nay declining it, a way which was judged beſt, in moſt times and places, to make all men of a mind in matters of Religion; and had their debates been more publick, and admit<g ref="char:EOLhyphen"/>ted of objections, no doubt the fruit had been better. But muſt they ſit always there? peoples ſoules crie aloud for their returne, and truly lines of communication are downe, and they may paſſe, that is, all that have not got better livings within.</p>
+            <p>
+               <hi>The Propoſition of ſetling Religion in</hi> England <hi>and</hi> Ireland, <hi>accor<g ref="char:EOLhyphen"/>ding to Covenant, is not done, but inſtead thereof, a meere ſhadow of Presbyterian government, without life or power.</hi>
+            </p>
+            <p>The Covenant runs, Setle Religion according to the word of God, and beſt Reformed Churches, this is expounded the <hi>Scots</hi> Presbytery, which indeed was the word of God, and beſt Reformed Churches in their drift; the great ſtick is, becauſe there is not a coercive power to kill, burne, deſtroy, impriſon, and ruine in life and eſtate all that are contrary minded, or will not conforme thereto. Be<g ref="char:EOLhyphen"/>cauſe no power to compell, therefore no life or power: the Mini<g ref="char:EOLhyphen"/>ſters profeſſion and paines is dead, unleſſe he have a power to com<g ref="char:EOLhyphen"/>pell to conformity, which never went with life and power ſince the beginning of the world.</p>
+            <p>
+               <hi>But inſtead thereof, Liberty is granted for all wayes of Worſhip, and for exerciſe of any opinion that men ſhall have, which opens a door to all blaſphemy, and contrary to Covenant.</hi> It is not true that liberty is granted to all opinions, nor doth granting ſome liberty open a way to blaſphemy; for you proffer to yield in ſome things. What is Blaſphemy and Idolatry puniſhable, is diſputable; the Scripture ſeemes to make them both to be a caſting off the worſhip of the true God, and worſhiping an Idol: and ſure the Parliament takes care to prevent that, or will do. As for its being contrary to a<g ref="char:EOLhyphen"/>greement, or Covenant, its not ſo conceived by Parliament, but agreeable thereunto: and ſure there are none more fit to expound their Covenant then themſelves, as to themſelves.</p>
+            <p>
+               <hi>And this is true, becauſe its Ordained that none ſhall be forced to the ſtabliſhment:</hi> And is this grievous? conſider ſeriouſly, Would you in Scotland have been content, to have been forced to the Common-Prayer-Book, when ſent unto you by the King? Would the French Proteſtants think well, if they ſhould be forc'd to Popery which is
+<pb n="8" facs="tcp:116466:6"/>eſtabliſhed by their ſupream? Judge all the world, whether there be much of reaſon or piety, that a Prince may compell his people to be of his Religion, or what he ſets up; and ſo its poſſible, either by the minde of the Prince, or by deaths, three or four Alterations may be in twelve years, as was in the dayes of <hi>Henry</hi> the eighth, <hi>Edward</hi> the ſixth, Queen <hi>Mary</hi> and Queen <hi>Elizabeth: But ours is the true Religion, therefore all are to be compelled unto it;</hi> prove that it was given you immediately from God and ſpare not; but if it were hammered out of the heads of an Aſſembly of Scots or Eng<g ref="char:EOLhyphen"/>liſh Divines, there is no reaſon that compulſion ſhould be uſed where infallability cannot be made good. The Jews, Chriſt, his A<g ref="char:EOLhyphen"/>poſtles never compelled. <hi>And whatever is pretended, liberty, is only intended:</hi> To judge of intention, is proper to God. <hi>I the Lord trie the heart:</hi> this cannot be meant of a Scotch lord.</p>
+            <p>
+               <hi>Presbyterie is limited for a time:</hi> The Parliament when they make Laws, know not oftentimes how they will prove, and there<g ref="char:EOLhyphen"/>fore for tryall, ſet a time, not out of diſlike, or intent to alter, but to prevent inconvenience, which poſſible may fall by the experi<g ref="char:EOLhyphen"/>ment, or perpetuating a Law at firſt. Pardon England, if they take not Presbyterie upon the bare recommendation of Scotland; its poſſible we may therein (as to perſecution) be out of the Frying<g ref="char:EOLhyphen"/>pan into the fire.</p>
+            <p>
+               <hi>The Miniſters are to exclude none from Saerament, but what the houſes think fit, though againſt their conſciences.</hi> Why! What a turn<g ref="char:EOLhyphen"/>ing about is here? now men muſt have liberty of conſcience, and muſt act in judgement and righteouſneſſe: And is this allowed Presbyte<g ref="char:EOLhyphen"/>rian Miniſters only? ſhew us a place of Scripture, or a good reaſon for this, <hi>viz.</hi> That you ſhould have liberty, and others compelled.</p>
+            <p>
+               <hi>The Parliament allows not in the Church the uſe of all Ordinances.</hi> All that they think are <hi>Jure Divine,</hi> and for other its not good to put overmuch power into their hands, untill they ſee how they will imploy a leſſe tallent; which, if experience ſhews well, its like they will have more: men newly raiſed in nower, grow ſo proud, that no ground can hold them.</p>
+            <p>
+               <hi>The Parliament<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>, allowes many Sects that have been caſt out informer time.</hi> Look the Hiſtory of the Churches, and you will finde ſometimes a Counſell threw out, the next put in, and the next after put out: and if perſecution or throwing out be a mark, ſure its of truth rather then error.</p>
+            <pb n="9" facs="tcp:116466:6"/>
+            <p>
+               <hi>The Parliament gives tolleration, for Sects to ſet up in any place con<g ref="char:EOLhyphen"/>venient.</hi> This is but for trial, to ſee whether they be conſiſtent with the Civill Peace, which if not, they will ſuppreſſe them: be<g ref="char:EOLhyphen"/>ſides, would not the Presbyters have that liberty? <hi>Then as you would that men ſhould do to you, ſo do you to others.</hi>
+            </p>
+            <p>
+               <hi>And not liable to any penalty.</hi> That's the buſineſſe. The ſword of the ſpirit is nothing without the fleſhly ſword. That phraſe, Sir, you ſhall be of this Religion, Will you, Nill you, and none other, not ſhall you worſhip any other way, but the States way, if you do, to <hi>Lollords</hi> Tower you go: Ieſus Chriſt &amp; his Apoſtles teſted, or rather drank deep of this Cup of mercy, from Jews and others.</p>
+            <p>
+               <hi>Though it ſeems that this extends not to tollerate the worſt, yet men may write, and diſcourſe of all whatſoever.</hi>
+            </p>
+            <p>For writing, no doubt care will be taken that none ſhall, ſo as to do hurt. As to opinions, you know in all parts, in Latine men have taken liberty: the main care is, in not writing to diſturb the civill Peace; and truly, all that can be written in ſeven years, cannot ſtrike deeper to ſet a kingdome in a fire of difference and a new War, then this very Declaration of yours, Printed in England without any Au<g ref="char:EOLhyphen"/>thority, yea, in defiance of Parl. yet is there not one word in any of the Treaties or Covenant, that Mr. <hi>Iohn Cheeſly</hi> ſhall have power to Print in England, no, nor any of the Commiſſioners. For diſcouſe, you knovv diſputations vvere allovved in the Univerſities, and the beſt Schollars ever ſtudied to maintain that vvhich vvas contrary to received truths, as the beſt vvay to finde out truth. It vvere a ſad fruit of all our troubles and ſuffering, if vve might notdiſcourſe with<g ref="char:EOLhyphen"/>out impriſonment and baniſhment, and upon any ſubject, Argument never did truth hurt.</p>
+            <p>
+               <hi>They would have the</hi> Parliament <hi>call to mind, former ſayings, and doings, and conſider that Divines have ſate foure years, framing a Di<g ref="char:EOLhyphen"/>rectory for Doctrine and Worſhip, and at laſt are laid aſide.</hi>
+            </p>
+            <p>Either the Divines have done their part, or they have not; if they have not, let them end it, give it to the Houſes, publiſh it to the king<g ref="char:EOLhyphen"/>dom, and avvay to their charges, there is nothing on their part re<g ref="char:EOLhyphen"/>quired, as to eſtabliſhing of it; if it be done, vvhy are they yet here? they vvere called but to adviſe and preſent.</p>
+            <p>
+               <hi>The Houſes Ordained a Faſt for extirpation of Hereſies and Schiſms.</hi>
+            </p>
+            <p>Are Hereſies and Schiſms ſo, becauſe contrary to the vvord of
+<pb n="10" facs="tcp:116466:7"/>God? Then every man hath his liberty to judge, and to there may be danger; for if the generality of the people of England, ſhall think Presbyterie a Sect or a Schiſme, then the Covenant ſvvears them to root it out; and faſting puts an edge to this oath: if they be only ſo that the State declares; ſo then, vvhen they have made a civill Lavv, declaring vvhat ſhall not be, and vvhat ſhall, the ſubject ought to, and no doubt vvill, give active or paſſive obedience thereto.</p>
+            <p>
+               <hi>The Covenant bindes to obſerve the authority of the ſupream Magi<g ref="char:EOLhyphen"/>ſtrate, priviledge of Parliaments, and firme Peace between the King<g ref="char:EOLhyphen"/>domes.</hi>
+            </p>
+            <p>The Parliament offers the return of his Majeſty, upon ſuch tearms as they conceive ſafe and good; and truly if the King be to be re<g ref="char:EOLhyphen"/>ſident among them, there is need of other manner of tearms in England, and for England, then in, or for Scotland: A Scepter bruiſeth not at diſtance, as it doth at hand. Priviledge of Parlia<g ref="char:EOLhyphen"/>ments, How many of Scotlands priviledges have England, or its Parliament violated? It were well if Scotlands Commiſſioners could waſh their hands as well of breaking the priviledges of Eng<g ref="char:EOLhyphen"/>lands Parliament. As for a firm peace between the Kingdoms, the Parliament and kingdom of England ſure have not hitherto been wanting, when it ſhall be conſidered what they have ſuffered, and yet do ſuffer, and what they have parted with to Scotland. Its con<g ref="char:EOLhyphen"/>feſt, and hath been acknowledged in word and deed, that England was beholding to Scotland very much, and truly if they kick not down that ſoop of milk, it will never be forgotten by this Nation: But this may be ſaid, their own intereſt and ſafety was involved; And England have ſundry times done as much, and more for them, when thoy were trampled upon, and brought to miſery by their Princes; many ſheets cloſe written will not contain the favours England hath ſhewed to Scotland in their diſtreſſe, and this over and above at Englands own charge: And ſure its a good prayer, That God would confound thoſe who ſhall be inſtrumentall in a War between the kingdoms, or ſhall not aſſiſt each other againſt a common enemy; but on the other ſide, let not Scotland think, be<g ref="char:EOLhyphen"/>cauſe of intercourſe of favours and kindneſſes to each other, that therefore England muſt become Ward to Scotland, no more then they would have Scotland be in Ward to England, for like, and gretter favours.</p>
+            <pb n="11" facs="tcp:116466:7"/>
+            <p>
+               <hi>Yet it is evident that many Sectaries with their adherents and abetters, do by their Doctrine and actions, offer violence to the King, his Perſon, and Authority.</hi>
+            </p>
+            <p>For their Doctrine, its poſſible other men may Preach as vvildly as many Presbyters, vvho have in all times, but chiefly of late, in their Pulpits, Preached up this or that faction, rather then Ieſus Chriſts Doctrine; and as the party increaſes or decreaſes, ſo they do in their zeal. Shevv ſuch an example of four Sectaries, as that delivered in by four Divines to the Common Counſell, (vvhoſe names ſhall be omitted, becauſe men of good life certainly) vvhere they ſay, they had done vvhat they could to ſtir up the people in the late tumult and force upon the Parliament: For their actions, if it be examined, it vvill be found they have rather gone the contrary vvay; and vvhen it vvas apprehended they vvould be inſtrumentall to reſtore the King, Hovv vvere they hugg'd by the royall party, and hated by the Presbyters? for the Kings Authority, vvhere is it? Is it not a<g ref="char:EOLhyphen"/>greed he have none untill he do ſo and ſo?</p>
+            <p>
+               <hi>And againſt Rites, and Priviledges of</hi> Parliament, <hi>ſo that there is not any one Article of Covenant, which is not in high degree violated by them.</hi>
+            </p>
+            <p>When the <hi>Parliament</hi> of <hi>England</hi> ſhall intreatyour help, to repair them, for the Sectaries breaking of Priviledges of <hi>Parliament,</hi> you ſhall doe well to give your help, according to Covenant. But why ſpeak you not of the late force done upon the <hi>Parliament,</hi> where the Lords and Commons were kept priſoners, untill they had voted what the Presbyters and Royaliſts would have, and after the Lords had ſaid what they would have them, yet were kept up, not being ſuffered to depart, and the Members of <hi>Parliament</hi> fored from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and a war commenced, armes raiſed, and upon thoſe extorted Votes? what ſay you, will you according to Covenant right the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> in this Priviledge, if they deſire you? No, no, you will halt then, as when you were to follow the Kings forces to <hi>Worceſter,</hi> goe
+<pb n="12" facs="tcp:116466:8"/>quite another way. As for the violation of every Article of the Co<g ref="char:EOLhyphen"/>venant by the Sectaries, ſhew where they have violated that, which ſaith they will amend their lives, or that, which ſaith they will bring Delinquents to condigne puniſhment, or that, where its ſaid, they will maintaine the Doctrine, and Diſcipline of <hi>Scotland,</hi> againſt the common enemy, nay indeed, ſhew that they have violated any of the Articles of the Covenant.</p>
+            <p>
+               <hi>Dividing between the King and his people, or making factions againſt the Covenant, and taking to them the name of Saints, yet are to be accounted Mulignants, Intendiaries, evil, inſtruments.</hi> What is caſier then to charge? what harder then to prove? no worſe character, then to be apt to charge, and unable to prove. Have the Sectaries divided between the King and his people? What ſaid the Propliec to the King are the Presbyters in <hi>England</hi> only the Kings people? what ſhall become of the Epiſcopall party? are the Preſ<g ref="char:EOLhyphen"/>byters and they the Kings people? why a Cavalier, more then a Sectary? and how doe theſe divide? by ſeeing farther into the plots of thoſe, that would make fruitleſſe all our bloud and ſufferings, then others, that would faine patch up an unfound peace. Take here two expreſſions, the firſt of Mr. Sir <hi>Jo: Cheeſ:</hi> Well ſaid he, talke what you will, and doe what you will with the King, now you have him at <hi>Holdenby;</hi> if ever he agree, or doe any thing by way of com<g ref="char:EOLhyphen"/>pliance, or condeſcention, then never truſt <hi>Scotland,</hi> who have try<g ref="char:EOLhyphen"/>ed him over and over. The other of an honeſt, and wiſe Presbyte<g ref="char:EOLhyphen"/>rian Miniſter, now in <hi>North hamptonſhire,</hi> who uſed theſe words: If elſe <hi>Independints</hi> bad not ſeen farther into King <hi>Charles,</hi> then the Presbyters, we had been the miſerableſt people in the world by this time: and this was ſaid upon occaſion of diſcourſe of the Battle at <hi>Nuſehy.</hi>
+            </p>
+            <p>The name of Saints is juſtly given to holy men; ſanctity is ſancti<g ref="char:EOLhyphen"/>fication; the good living ſhews the ſaint; not a ſwearer, a drunkard, a whore maſter, a flet, a thief, a plunderer; but he that prays, medi<g ref="char:EOLhyphen"/>rates, hears the word preached, doth no hurt to his neighbour, is a ſaint. Now if all be ſaints, that are thus, affirmative and nega<g ref="char:EOLhyphen"/>tive, what a poore company of Saints are in <hi>England,</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land?</hi> and how many Sectaries will be found Saints? For Saint muſt not be confind to ſuch a mind, or judgement, then what will be<g ref="char:EOLhyphen"/>come of all men that differ, though but in circumſtances, if only
+<pb n="13" facs="tcp:116466:8"/>one ſort be Saints? they were mighty in Scripture, and holy, no doubt, who had not heard that there was a holy Ghoſt. They are to be accounted Malignants, Incendiaries, and evill Inſtruments, that hinder a good peace, and foment an evill war; but to put that up<g ref="char:EOLhyphen"/>on them, that differ from you in Judgement, and therefore, and con<g ref="char:EOLhyphen"/>clude your ſelves contrary, becauſe Covenanters, or of another Judgement is ridiculous: give an inſtance and prove it, and you ſay, and doe ſomething, but to ſay it only may be in like kind retorted upon you, and if it were neceſſary, proved it may be. And in ſhow, take this Argument. They that doe moſt conforme to, and comply with thoſe that have been the principall cauſe of all the miſeries that have of late been, in theſe three Kingdomes, are moſt malig<g ref="char:EOLhyphen"/>nant: but in writing Declarations, overtures, and attempts, the <hi>Scots</hi> Commiſſioners, if not, the Kingdom of <hi>Scotland</hi> have; <hi>Ergo.</hi> they that will read, and conſider, may prove the aſſumtion.</p>
+            <p>
+               <hi>That pious and peaceable men ſhould be troubled, becauſe that in all things, they cannot conforme to presbyterian Government, and may ſtand with publick peace, and is not deſtructive to Order, and Government of the Church, is not your deſire.</hi>
+            </p>
+            <p>
+               <hi>Bellarmin</hi> writ twelve books to prove Juſtification by works, and towards the end ſaith, the beſt and ſureſt way is, to be juſtifid by the merits of Chriſt alone. You have done the ſame in this for ſure, there cannot be found a man this day in <hi>England,</hi> that would have any man, or opinion tollerated, that is not accompanied with piety and peace; and will ſtand with, and is not deſtructive to the Order, and Government of the Church, that ſhall be, or is crected, and if thone be, its fit he be rooted out, as an one my to the peace of the kingdom.</p>
+            <p>
+               <hi>Yet, they doe from their hearts, and foules, abhor ſuch a vaſt and gene<g ref="char:EOLhyphen"/>rall Tolleration, as is inconſiſtent with the Covenant, and will ſee all in confuſion:</hi> But, what if it may ſtand with publick peace, and not de<g ref="char:EOLhyphen"/>ſtructive to the Order, and Government of the Church, which ſhould have been the aſſumtion, and not the Covenant; for that was ne<g ref="char:EOLhyphen"/>ver underſtood, nor is ever like to be: but the civill peace, and Go<g ref="char:EOLhyphen"/>vernment of the Church being undermined, or deſtroyd, will beha<g ref="char:EOLhyphen"/>vious: when a toleration hath ſo done, then complaint; the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> is the proper Judge what will make for <hi>Englands</hi> p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce if they allow it, let others be patient untill they ſee contrary and then no doubt the <hi>Parliament</hi> will hear, and reforme.</p>
+            <pb n="14" facs="tcp:116466:9"/>
+            <p>
+               <hi>Therefore they obteſt the Parliament by the Covenant, and what e<g ref="char:EOLhyphen"/>ver they have ſaid or done to induce the Kingdom of Scotland to joyn with them, that they do not eſtabliſh ſuch impious tolleration.</hi>
+            </p>
+            <p>The Parliament, what ever they have ſaid, or done to induce the kingdom of Scotland to joyn, met with a reciprocall inclination, and for the Covenant, they do not violate it in their own judge<g ref="char:EOLhyphen"/>ments, in ſatisfying tender conſciences. If it be ſuch as will ſtand with the peace of the kingdom, and not deſtructive to the Go<g ref="char:EOLhyphen"/>vernment erected, you allow it, and you will not allow that which is impious; have patience, and ſee whether this tolleration be ſo: If you ſay impious in your Judgement, that will be but your Judge<g ref="char:EOLhyphen"/>ment; the Parliament would be loath to be thought the tolleraters of any thing that is impious, do not charge them, unleſſe you are able to prove it, which yet appears not.</p>
+            <p>
+               <hi>The ſecond Difference is the Intereſt and Power of the Crown, and ſo by Covenant bound to ſupport the Kings Juſt Power and Greatneſs.</hi>
+            </p>
+            <p>That is anſwered before But thus much, if the Kingdom of <hi>Scotland</hi> will ſay, the King notwithſtanding what hath been paſt by his inſtru<g ref="char:EOLhyphen"/>ments in His Name, to the hurt of both Kingdoms, ought to be reſtored in His Juſt Power and Greatneſs, that is, (for ſo they muſt ſay) whatever <hi>de jure</hi> was His formerly, muſt again be His, what then needs any Perſonal Treaties, any new Bills, or any more but an humble Petition to His Majeſty, to come and govern again without any Conditions at all? But if any reſtriction may be, how comes it, or what is meant by this, Juſt Rights of the Crown?</p>
+            <p>
+               <hi>This conſiſts, they ſay, in conſenting to Laws:</hi> And who denies it? Is the Parliament about to reſtore the King, and not Laws upon Him without His conſent? Wherefore then do they ſend them to Him? nay, ſure they will not deny Him his Reaſons, they did not in the Petition of Right, when He ſtuck at ſome part of it, it was ar<g ref="char:EOLhyphen"/>gued on both ſides by a Committee of Parliament, and learned Councel of the Kings, and upon Debate, the Kings Councel yielded, and the King conſented, Bills or Acts of Parliament do not hinder His Majeſty of making his exceptions.</p>
+            <pb n="15" facs="tcp:116466:9"/>
+            <p>
+               <hi>Theſe words His Majeſty will adviſe.</hi>
+            </p>
+            <p>Theſe and many other you bring to prove His Majeſties Negative ought to be allowed Him: But do you mean that He ſhall ſay ſo, and that is ſufficient; for ſhame do not urge it ſo, for if after a Parlia<g ref="char:EOLhyphen"/>ment hath been long in making Laws, it may be for the ſupport of the Being of the Kingdom, and to prevent immediate Ruine and Deſtru<g ref="char:EOLhyphen"/>ction, and while theſe Laws were making, have ſpent the Kingdom many thouſands, ſhall His Majeſty by the Advice of a Favorite, diſ<g ref="char:EOLhyphen"/>ſolve the Parliament, and ſay, He will adviſe; to what end are Par<g ref="char:EOLhyphen"/>liaments? they were as good never ſit or Debate, when ſuch an an<g ref="char:EOLhyphen"/>ſwer ſhall blaſt all: Its one thing to give Reaſons againſt, and an<g ref="char:EOLhyphen"/>other thing to blaſt good endeavors by ſaying, I will, but do nothing: And in this caſe, if the Kingdom ſtand in eminent and real need, no doubt the Parliament may declare a Law; and ſo Keeper <hi>Littleton</hi> ſaid this Parliament, That an Ordinance was good, if His Majeſty re<g ref="char:EOLhyphen"/>fuſed, with I will adviſe, and not do ſo.</p>
+            <p>
+               <hi>And in protecting and defending His Subjects.</hi>
+            </p>
+            <p>Sure the Parliament will not deal with His Majeſty, as the Egy<g ref="char:EOLhyphen"/>ptians did with the Iſraelites; if they intreat Him to take again the Protection of them, they will give Him wherewith: Yet remember, that Kings of <hi>England</hi> in their fulleſt Power; could not raiſe Men or Money to defend themſelves or Subjects without Parliament: And all know, that theſe two wanting, its a poor defence that can be made. And though Kings who uſually ſtudied the weal of their People, were permitted to make War and Peace as they ſaw cauſe, yet it cannot be proved, nor ſeems it reaſonable, the premiſes conſidered, that <hi>de Jure</hi> the <hi>Militia</hi> was ſo in the King, or Power of War and Peace, as that he could do it without conſent of the Parliament, but that the People whom it chiefly concerned, and who were like to undergo the miſeries or good incident to them, were asked, and yet His Majeſty in as full Power as any of the Kings of <hi>England.</hi> Many a time it hath been ſaid in Parliaments before this, That the King could not go to War without conſent of His Subjects; and how often did Kings, when they ſaw a neceſſity of War, call Parliaments, and communicate their de<g ref="char:EOLhyphen"/>ſires, and had conſent from Parliament.</p>
+            <p>
+               <hi>Which are the Eſſence and Being of all Kings, and the chief part of their Duty and Function.</hi>
+            </p>
+            <p>The main Conditions at the Coronation, its confeſt, is to
+<pb n="16" facs="tcp:116466:10"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, but they are both according to Law.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the</hi> Militia <hi>you are content it be ſetled ſo as it may not</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>agreed, but you would have His Majeſty have it, as to Foraig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> States, and His Poſterity after Him, which to deny, roots up the foundation of Monarchy.</hi>
+            </p>
+            <p>If His Majeſty have it, as to any Affair, how is it conſiſtent with the Parliaments having it? and may not a Power intended to one place, be converted to another; how often hath it? and ſo preſently a new Wat: As for His Majeſty, no doubt the Parliament, when they ſee Him ſo moved, as that He is cordial for the Liberty of the Subject, The Intereſt of Religion, as agreed, no doubt they will be apt again to repoſe in him; and until he hath taken the Covenant (if you remember the Negotiation with the Queen) you are neither willing he have the <hi>Militia,</hi> or any thing elſe: For His Poſterity, you know how the Heir apparent hath acted; where he is, how he there acts and moves, what aſſurance he hath given of acting better then his Father; and is not the Parliament wiſe in being ſhie how they in<g ref="char:EOLhyphen"/>truſt their Life and Death, and into whoſe Hands they put that Power. As for rooting up the foundation of Monarchy, its but re<g ref="char:EOLhyphen"/>ſtricting it, thereby to bring it to be conſiſtent with the Peoples Li<g ref="char:EOLhyphen"/>berty; the ſtick that is crooked muſt be ſet for a time the contrary way, or it will never be ſtrait.</p>
+            <p>
+               <hi>Yet you would not have Monarchy as high as Tyranny.</hi> The Father would not have the Son take evil courſes, but yet gives way that he have the ſame allowance, company, place, opportunity, as before.</p>
+            <p>
+               <hi>And you by no means can agree to an Armies being up in</hi> England, <hi>now there's no Enemy, when ſome Gariſons and the Train bands may do it, and not an Army to inſlave King and Subject.</hi>
+            </p>
+            <p>Hath the Parliament of <hi>England</hi> taken any notice of what you in <hi>Scotland</hi> continue or disband? you would fain have us naked once more, that we might either be ſurpriſed by our Adverſaries, or need again your help: For the Trained bands, we have had experience of them, and ſeen the miſerable inconvenience in <hi>London</hi> and Countrey, of taking houſekeepers from Trade, Wives, Children and Servants; and how many thouſand have been thereby undone? and how the Kingdom hath thereby been impoveriſhed! You are not ignorant, that in other parts of the world, the Plow and Trade pays the Sol<g ref="char:EOLhyphen"/>dier, and that thoſe who are not faln upon that fight; but were theſe
+<pb n="17" facs="tcp:116466:10"/>Trained bands Sectaries, then by no means Trained bands would not do well. As for the Armies inſlaving King and Subject, its not ſo; they are kept on foot that <hi>England</hi> may not be ſlave to King and <hi>Scotland. When your Army returned into</hi> Scotland, <hi>it was expected the Par<g ref="char:EOLhyphen"/>liament diſband this in</hi> England: Was it? ſure it was not imagined <hi>England</hi> was ſo much fool; ſomewhat hath been ſaid to that before: Farther thus, Were there not an Army in <hi>England,</hi> what think you would become of Presbytery, let any reaſonable man judge if it would ſtand a moneth, and not be rooted out, and the preachers and pro<g ref="char:EOLhyphen"/>feſſors of it: Do not think to deceive the world with words, <hi>England</hi> in general loves Epiſcopacy better, and Popery as well as Presbytery; for in time of Epiſcopacy, they had all things in plenty and good fel<g ref="char:EOLhyphen"/>lowſhip to boot: who ſhall expect to enjoy Biſhops Lands in lieu of their money you had, if no Army? when will the Parliaments debts be paid without an Army? how will money be had to reduce <hi>Ireland</hi> without an Army? You ſee an Army can hardly do theſe things, but in ſpight of Parliament and Army, Common-Prayer book, and what<g ref="char:EOLhyphen"/>ever is Epiſcopal, enters openly, and men refuſe to pay any kinde of Taxes.</p>
+            <p>
+               <hi>Therefore you declare, that Propoſitions go for diſbanding.</hi>
+            </p>
+            <p>That is Sectaries, that ſo an Army of Presbyters may come in the room; and if you put it not ſo, its not as the Eleven Members would have, nor according to the Compact with them and their Party: And truly, could Presbyters have been kept from being tampering with Royaliſts, to patch up an unſound Accord, its probable Sectaries had never been uſed ſo much; and could ſuch be had, its like They might be with content diſmiſt: And yet take this, That an Army of Presbyters will not have that Antipothy, and ſo not ſo ſecure for Presbyterian Government; for if a little oppoſition ſhould come, our new Presby<g ref="char:EOLhyphen"/>ters would chooſe to read the Common-Prayer book, and ſo aſſure themſelves of the hearts of their Pariſhioners, the force whereof will be full Tythes, Oblations, and good Chear, rather then want theſe.</p>
+            <p>
+               <hi>Armies were raiſed, For defence of the Kings Perſon, Authority, Religion, and Priviledges of Parliament.</hi>
+            </p>
+            <p>Are any of theſe ſo ſecure, as there needs no power to defend them; how many days is it ſince wrong hath been offered to all theſe.</p>
+            <p>
+               <hi>And though other nations have need to continue Souldiers, yet the ſea is</hi> Englands <hi>and</hi> Scotlands <hi>bulwarks.</hi>
+            </p>
+            <pb n="16" facs="tcp:116466:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:116466:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="18" facs="tcp:116466:12"/>
+            <p>But there's no ſea about the Presbyterian pulpit, the Royaliſts diſ<g ref="char:EOLhyphen"/>contents and ſufferings, nor between <hi>England</hi> and <hi>Scotland,</hi> though His Majeſty be in an Iſland; and beſide, there are ſhips to go between <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland,</hi> and <hi>France:</hi> and <hi>Robert Write</hi> ſaith, There are paſ<g ref="char:EOLhyphen"/>ſengers come in them, who frequent St. <hi>Germans</hi> and <hi>Fountain-blew.</hi>
+            </p>
+            <p>
+               <hi>And if we ſtudy Peace and <g ref="char:V">Ʋ</g>nity between the Kingdoms, under the Government of the King, we need not fear Enemies abroad.</hi>
+            </p>
+            <p>The way to it is not to offer to His Majeſty a diſſent, in the name of the Kingdom of <hi>Scotland</hi> from what the PARLIAMENT of <hi>England</hi> thinks neceſſary for their ſafety, and a good and laſting Peace.</p>
+            <p>
+               <hi>Its a cuſtom in other nations, to keep Soldiers to raiſe money, but the people of</hi> England <hi>and</hi> Scotland <hi>are a free people, and why then ſhould War be made a Trade among them?</hi>
+            </p>
+            <p>Be aſſured of it as a truth, the Army is ſo far from continuing onely to raiſe money, that if the Parliament can be without them, they will be willing to disband, with reaſonabler Arrears then you went out of <hi>England</hi> with; and for the Kingdoms being free, it will appear at laſt, the Parliament and Army of <hi>England</hi> will be no inſlavers, at leaſt of this, to their credit and others ſhame: as for war being made a trade, it hath not been the cuſtom of this nation, nor of yours; its true, as a trade abroad you know how well <hi>Scotland</hi> hath driven it; and truly to bend both Powers to reſtore Allies, there's no doubt <hi>England</hi> will hearken to as readily as <hi>Scotland,</hi> and yet take care to reduce rebellious <hi>Ireland</hi> beſides.</p>
+            <p>
+               <hi>For a Propoſition of Pay of Arrears, and diſband all in one.</hi>
+            </p>
+            <p>Why you ſhould ſo much affect <hi>Englands</hi> weal therein, appears not, be<g ref="char:EOLhyphen"/>cauſe you are ſo oppoſite to their deſigns tending to an Accord; beſides, if you mean after an agreement, would you have His Majeſty reſtored, and forthwith His, and His parties words taken, that they will conform to all that is agreed, and the Parliament have only the name of a <hi>Militia.</hi>
+            </p>
+            <p>
+               <hi>Titles of Honor you deſire the King may not be hindered from be<g ref="char:EOLhyphen"/>ſtowing or conferring, it being a chief flower of the Crown.</hi>
+            </p>
+            <p>But how ſhall the Parliament, and ſo <hi>England,</hi> be aſſured, that none ſhall be honored who have not wherewith to maintain it, but muſt put his Majeſty upon unjuſt grounds to maintain that honor? and whether his Majeſty will not confer honors to the prejudice of the ancient No<g ref="char:EOLhyphen"/>bility of <hi>England,</hi> and make ſo many Lords as may bring honor into
+<pb n="19" facs="tcp:116466:12"/>diſeſteem, That the Lords houſe may not be founded, ſo as it will be King-trod againſt its own and the Kingdoms good? For honors in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> let him give as many as he will, ſo he gives not (as formerly) the wealth of <hi>England</hi> to maintain them. And now thus much hath been ſaid, it will be no great digreſſion to ſay, That there ſeems to be reaſon that there ſhould be no more Scotchmen about His Majeſty, as ſervants, or preferred in <hi>England</hi> to any thing that expends the Re<g ref="char:EOLhyphen"/>venue of <hi>England,</hi> then there are Engliſh in <hi>Scotland;</hi> and though there be a neceſſity that Scotchmen attend His Majeſty, as in relation to the affairs of <hi>Scotland,</hi> yet there is no reaſon that <hi>Englands</hi> Revenue maintain them, nor that Engliſh honor be beſtowed upon them, but that they wait what falls in <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>All expreſſions of Joynt Intereſt in theſe Propoſitions are left out.</hi>
+            </p>
+            <p>If the Parliament make them good, they do well, if nor, God will be angry with them; for to act againſt the true Intereſt of Kingdoms ever proves fatal, and hath been the alone cauſe of the preſent condi<g ref="char:EOLhyphen"/>tion of His Majeſtie, Children and Party.</p>
+            <p>
+               <hi>But there is left out of the Propoſition, that which joyntly concerns both, and that contrary to agreement;</hi> viz. <hi>That peace ſhould not be made with the King, without the conſent of</hi> Scotland.</p>
+            <p>That there is a neceſſity of treating or debating Joyntly, becauſe an agreement, is, That no Peace ſhall be concluded, but by mutual conſent, doth not follow. The Princes of Chriſtendom have had a long time, you know, a Treaty at Munſter, wherein each have treated apart, yea, and without the privity of other; And thoſe who have been in confederacy, not to agree to Peace, but by Joynt conſent; for have not each their ſe<g ref="char:EOLhyphen"/>veral buſineſs diſtinct from the other, as the French, Dutch, Sweads, Haſſians, and others, all in confederacy: Now the Joynt Intereſt is of ſeveral natures, and will take his proper place, and you have the ex<g ref="char:EOLhyphen"/>ceptions as any of the forementioned have; but that the Parliament may not treat for their own particulars, and forbear the other, there's no queſtion: all the queſtion is, how far a Joynt Intereſt obliges, for they are alterable as you know well, but in regard it is onely charged upon the Parliament, to have left it out, it may be after aſſumed.</p>
+            <p>
+               <hi>The Parliament is obliged, as they have declared to Ambaſſadors, to ſet aſide Epiſcopacy in</hi> England, <hi>and hinder its coming again into</hi> Scotland.</p>
+            <p>And if they do not, wo be to them, for if they ſhall forget what
+<pb n="20" facs="tcp:116466:13"/>ſlaves they were to the Lordly power of Prelates, and what by that way they ſuffered, and reſetle any ſuch like thing, it were pity but they ſhould be bored through the ears, and ſo marked for eternal ſlaves. And ſure the rooting out of Epiſcopacy in <hi>England,</hi> is enough alone to make good the Intereſt, increaſe Union, and perpetuate Amity.</p>
+            <p>
+               <hi>The next blame is laid upon the Army, for medling with the matter of Peace, and propoſals ſo much diſliked and declared againſt by Parliament.</hi>
+            </p>
+            <p>As for the Armies medling, it was but to put the great wheels off the Scots Axeltrees; and having, as they conceive, fixt them upon Engliſh, they intend to let them alone, hoping the Pins will keep them there; but if they ſhould go back, its like they will make bold with them again, onely with this diſtinction, as Subjects, not as Soldiers. If the maſter hath got a cup too much of Scots ale, the ſervant is not to be blamed if he takes him by the arm and leads him until he be recovered again, and in his right minde; yea, though it be with giving a frown or two, to thoſe that made him to drink too much.</p>
+            <p>As for propoſals, remember what Letter was ſent to the Parliament, after the battel at <hi>Marſton-moor</hi> by the Generals.</p>
+            <p>
+               <hi>Which you conceive to be the cauſe of the alterations:</hi> A terrible diſ<g ref="char:EOLhyphen"/>grace to the Parliament, as if the Parliament were moved in the leaſt, by the <hi>London</hi> Remonſtrance dreſt at <hi>Worceſter</hi> houſe.</p>
+            <p>
+               <hi>This you ſay might have been prevented, if the Parliament at firſt, framing the new Model, had hearkened to the advice of taking the co<g ref="char:EOLhyphen"/>venant,</hi> &amp;c. It's true, then there had been an Army that would not have ſubdued <hi>Englands</hi> enemies, probably in one and twenty years: and the Kingdom muſt have been ſubject all this while to plunder, &amp; mens wives and daughters ſubject to the ſame condition as they were in the North.</p>
+            <p>
+               <hi>But the Propoſition for</hi> London <hi>is left out, in which formeerly it was ordained that they have their</hi> Militia <hi>in their own hands, alſo the Tower, and that their</hi> Militia <hi>go not out of the City, but by their conſent, alſo an Act of Parliament; for confirming their Charters, Cuſtoms, Liberties,</hi> &amp;c. <hi>And an Act that all By-laws, be as firm as an Act of Parliament, with po<g ref="char:EOLhyphen"/>wer to repeal them as they pleaſe, and for good ſervice done by Parliament.</hi>
+            </p>
+            <p>For <hi>London,</hi> theſe times give it over-great to be ruled, either by King or Parliament; and ſo reaſon bids no addition: The people that govern in it, in regard their skill is chiefly in getting money, have little underſtanding in any thing elſe: eſpecially the Anci<g ref="char:EOLhyphen"/>ents, in whom rule is, and therefore ſubject to run ſeveral ways in a
+<pb n="21" facs="tcp:116466:13"/>week, therefore very unfit to manage weapons, and moſt unfit to have charge of the Tower where all weapons are; For Charter, Priviledges, &amp;c, they have often been confirmed, and if now forfeited, as ſure not, the Act of oblivion puts in old State.</p>
+            <p>As for their By-laws, being as good as an Act of Parliament; if it were granted, <hi>London</hi> would be undone: for example, all Acts done in Common-Councel relating to <hi>London,</hi> are By-Laws, no Acts of Parlia<g ref="char:EOLhyphen"/>ment: Put caſe they give Fifty Subſidies to Parliament. To repair of Pauls. To make a new Line of Communication. And then give as much more to pull it down; ſhould they agree that their <hi>Militia,</hi> that is, the Train Bands or Houſekeepers go to Newcaſtle, or farther in arms, and all theſe binding, a man had better be a ſlave in Turkey, then a free Citi<g ref="char:EOLhyphen"/>zen of <hi>London:</hi> A hundred other inſtances might be given. As for power of repealing, there's no danger, if the making binde not: Let it be conſidered what a brave City <hi>London</hi> would be, if a company of Shoe-makers, Taylors, Chandlers, Bricklayers, Plaiſterers, and ſuch like men, who generally can neither write nor read, ſhall be able to make Laws, as good as if by King, Lords and Commons agreed unto; what will become of <hi>London,</hi> and where is His Majeſties Negative voyce, or the Lords and Commons; a Cobler of <hi>London</hi> is a brave man indeed.</p>
+            <p>
+               <hi>As to the Court of Wards;</hi> there ſeems to be no difference, His Majeſty is willing to part with it upon conſideration, and the Parliament is willing to give it.</p>
+            <p>
+               <hi>For Deans and Chapters, Lands intended for augmentation of means for miniſters, you wiſh it ſo.</hi>
+            </p>
+            <p>To ſettle One hundred pounds a year and no more for every Mini<g ref="char:EOLhyphen"/>ſter, and dividing the Pariſhes as equal as poſſible, will do well; but why the Ox ſhould eat of any mans corn, but his he treads out, ſeems irregular.</p>
+            <p>
+               <hi>There is one thing more, that is, The Bill for the</hi> Militia <hi>ſent to the King, gives power to put Soldiers into the Town of</hi> Barwick, <hi>contrary to the large Treaty.</hi>
+            </p>
+            <p>The words are no more but theſe, That His Majeſty conſent that the <hi>Militia</hi> of the Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> and Town of <hi>Barwick,</hi> alſo the Iſland of <hi>Garnſey</hi> and <hi>Jerſey,</hi> be in the hands of Parliament; the reaſon of the naming <hi>Barwick,</hi> being not for put<g ref="char:EOLhyphen"/>ting Soldiers in, but becauſe that Town is reckoned a part of <hi>Scotland,</hi> and ſo named, being not comprehended in <hi>England,</hi> as is not <hi>Wales, Garnſey</hi> and <hi>Jerſey:</hi> whence ſee how eaſie it is for diſcontent to finde fault where none is.</p>
+            <pb n="22" facs="tcp:116466:14"/>
+            <p>Somewhat might be added, as to the late Diſſent preſented to His Majeſty, whoſe fore-goer was a Trumpet: Truly your love is kindely taken, and ſure will be by <hi>England;</hi> but the Trumpet cannot be ter<g ref="char:EOLhyphen"/>rible: Your Diſſent in matters of Religion is allowed you by Inſtru<g ref="char:EOLhyphen"/>ctions; but for the glory of the King. you are required an endeavor and no more. But to allow you the Diſſent: Conſider whether this hath not been a means to keep His Majeſty from conſent; and indeed it appears by His Majeſties Anſwer, that He is turned about thereby: For whereas in one of His Meſſages He deſires to give the Scots content apart, now His main Objection putting Him upon refuſal, is your diſ<g ref="char:EOLhyphen"/>ſent; and ſo you may be ſaid to be the hinderers of a good Peace. For let it be obſerved, His Majeſty gives no Reaſons againſt the Bills, onely in general they diveſt the Crown, which for former failings, in former Meſſages He was content to yield unto; And ſo whereas His Majeſty and the Commiſſioners of <hi>Scotland</hi> preſs that Argument or Reaſon may take place, they now flie to, they cannot agree, or they diſſent; and there's an end.</p>
+            <p>If any one had pleaſed to take this pains, a little to undeceive the people, this ſhould have been willingly ſpared; In that which the Par<g ref="char:EOLhyphen"/>liament are to give in anſwer, you will have things full and clear to all, though it may be you may ſtay ſometime; in the mean time, if this prove but a peparative, to keep the mindes of men from being too much carried away with one ſtory, until they hear another, it is all that is aimed at.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
